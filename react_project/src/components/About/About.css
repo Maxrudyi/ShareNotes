@@ -1,0 +1,5 @@
+.about__text {
+    display: flex;
+    justify-content: center;
+    margin: 60px 180px 0 155px;
+  }
